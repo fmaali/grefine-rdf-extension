@@ -1,0 +1,9 @@
+I. Upgrade librarires
+  1. Upgrade Jena
+    a. Upgrade text search
+  2. Upgrade RDF Sesame
+  3. Upgrade Any23
+II. Remove obsolete functionalities
+  1. Sindice
+  2. Stanbol?
+III. implement Data Extension API
